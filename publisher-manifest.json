@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3124cd4b8cf8ebf8a6b71b5a",
+  "owner": "xepers",
+  "repo": "page-ae508e1bc1c6e499706e282e",
+  "title": "clashmi安卓",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ae508e1bc1c6e499706e282e",
+      "a": "clashmi安卓",
+      "b": "",
+      "entity": "clashmi安卓",
+      "brand": "clashmi安卓",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fd15cb7452b42dfe7da1258519ed99dbd0cf8688e90c9a30592f9ef64f9dbd41",
+      "content": {
+        "keyword1": "clashmi安卓",
+        "keyword2": "",
+        "primary_entity": "clashmi安卓",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi安卓提供专业VPN加速服务，安卓客户端一键下载，解锁流媒体，安全稳定，支持多设备在线。",
+          "AI_DESCRIPTION": "clashmi安卓提供专业VPN加速服务，安卓客户端一键下载，解锁流媒体，安全稳定，支持多设备在线。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<header><h1>clashmi安卓</h1><p>安全VPN加速器 | 安卓客户端下载</p></header><main><section><h2>品牌简介</h2><p>clashmi安卓是一款专为安卓设备优化的VPN加速器，提供稳定高速的节点连接，帮助用户畅享无阻网络体验。无论日常浏览还是远程办公，clashmi安卓都能为您带来流畅稳定保障。</p></section><section><h2>使用场景</h2><p>• 全球流媒体解锁：Netflix、YouTube、Disney+ 等平台畅享高清内容<br>• 游戏加速：在线竞技、下载加速，降低延迟<br>• 远程办公：稳定连接，保障工作效率<br>• 日常上网：隐私保护，安全浏览</p></section><section><h2>客户端选择</h2><p>下载clashmi安卓官方客户端，立即开启加速之旅。支持一键导入订阅，快速连接高优先节点，优化安卓设备性能。</p><div><h3>基础版</h3><p>¥15/月（年付仅 ¥150/年）<br>每月100GB极速流量<br>支持3台设备<br>普通线路节点池</p><h3>旗舰版</h3><p>¥35/月（年付仅 ¥350/年）<br>每月300GB极速流量<br>支持5台设备<br>全节点原生流媒体解锁<br>IPLC专线游戏加速</p><h3>团队版</h3><p>¥85/月（年付仅 ¥850/年）<br>每月1000GB极速流量<br>支持20台设备<br>VIP高带宽节点<br>企业定制路由</p></div></section><section><h2>操作说明</h2><ol><li>访问官网下载官方安卓客户端</li><li>安装后打开App，导入订阅链接</li><li>选择节点一键连接</li><li>享受高速加速</li></ol></section><section><h2>常见问题</h2><details><summary>如何下载clashmi安卓客户端？</summary><p>访问官网首页，点击“下载客户端”按钮，选择安卓版本进行安装。官方地址：https://clashmi.com</p></details><details><summary>支持哪些设备？</summary><p>clashmi安卓客户端专为安卓设备优化，推荐Android 5.0及以上系统。</p></details><details><summary>流量如何计算？</summary><p>每月流量为重置周期内使用总量，超出部分自动限速。</p></details><details><summary>如何解锁流媒体？</summary><p>旗舰版及以上套餐支持原生节点解锁Netflix、YouTube等平台。</p></details><details><summary>客服支持如何？</summary><p>7x24在线工单支持，优先处理VIP客户问题。</p></details><details><summary>如何切换节点？</summary><p>在客户端设置页面选择不同线路即可一键切换。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© 2025 clashmi安卓 官网</p><p>友情链接：<a href=\"#\">官方下载</a> | <a href=\"#\">订阅服务</a></p></footer>",
+          "hash": "5eb055b2881c132f4a63a7b4e43b4a5b7e2143315b16a67cc5d9fb16b3f1f481",
+          "seo": {
+            "title": "clashmi安卓 - 安卓VPN客户端下载 官网加速器",
+            "keywords": "clashmi安卓, 安卓客户端下载, VPN加速器, 机场订阅, 流媒体解锁, 高速节点",
+            "description": "clashmi安卓提供专业VPN加速服务，安卓客户端一键下载，解锁流媒体，安全稳定，支持多设备在线。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uoaygmc.cn",
+    "host": "p-dad4869217.uoaygmc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d9945d39d8ccc5e7e65cb2746d2e0512ccfb92cbe348bdcd68c401db264e0c12",
+    "sitemap.xml": "953b70558132939dffc6b000c60672289939d2e2c6cb3c60f82de86e8786fbfb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b9b3eefb641c02fc08f0198ddc1ee28b55ae3eb242433fde641d616cffc0022e",
+    "robots.txt": "1eb68ee8378e0c6aa23c26db4310164062145fed320f06a4e8144de6cbcba38c",
+    "a922297667302df42ae51d9947c104fd.txt": "34b23fe06d33bb311bcb0802b32f585ff6981526bfb333928bc08164676c2236"
+  },
+  "revision": "3d7b542105dfd30ff80dba3474e7846120dc4b3b6c565dc5da6b3dd8b15358b6"
+}
